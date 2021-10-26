@@ -20,7 +20,7 @@
 
 Alurinha foi um projeto desenvolvido durante a formação de front-end.
 
-Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na utilização do html, css e javaScript. No que diz respeito a resposividade para diversas tamanhos de telas
+Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na utilização do html, css e javaScript. No que diz respeito a resposividade para diversas tamanhos de tela.
 
 ## ⚙Funcionalidades
 
